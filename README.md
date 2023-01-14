@@ -1,2 +1,1 @@
-# Aplikasi-Psikologi-Menggunakan-Kecerdasan-AI
-Chatbot untuk Mental Health
+# Aplikasi-Psikologi-Menggunakan-Kecerdasan-Buatan-AI-
